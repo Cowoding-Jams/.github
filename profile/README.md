@@ -1,5 +1,5 @@
 # Cowoding-Jams
-Hey! We're Antti, Lucy, Leonie, Murphy, Floschy, Amber, Wilson, Riley, Crispr, Kryal, Ian and many more! 🪺   
+Hey! We're Antti, Lucy, Leonie, Murphy, Floschy, Amber, Wilson, Riley, Kryal, Ian and many more! 🪺   
 Together we are a group of young and mostly queer people having a game jam/hackathon Discord server called "Cowoding-Jams" together. 🌈🏳‍⚧🌿  
 
 It all started with coding [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Since then we had all kinds of jams.  
